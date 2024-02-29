@@ -1,0 +1,11 @@
+	· Alternate usage of ' and " to avoid issues
+	· \n to move to next line
+	· Indentation matters so take care of space 
+	· Use of input() function. Example input("What is your name?")
+	· len() function to find the length of strings
+	· Storing values in some name so that it can be recalled later. Example a=2, 2 is stored in a
+	· Rules to name a variable:
+		○ Use _ to separate words
+		○ Numbers cannot be at the beginning of the variable name
+		○ Make sure variable names don't match the function
+NameError is related to errors related to wrong nomenclature due to misspelt
