@@ -1,0 +1,26 @@
+Data Types
+    Strings : "Hello"
+        § Subscripting - "Hello"[0] returns H
+        § "12345" is treated as strings
+    Number : 123
+		§ 123_456_789 is interpreted as 123456789 by Python
+	Float : 23.546
+		§ With decimal
+    Boolean : True/False
+
+Python cell referencing starts at 0
+
+TypeError : Error due to assuming data to be a different type than it is
+
+type(_______) can be used to check the type of variable
+str(__________) can be used to convert into to string
+float(______) can be used to convert to float
+int(_____) used to convert to integer
+PEMDAS : (), **, * or /, + or -
+round(_______) can be used to round off a number
+
+Instead of using /, if we use //, it takes floor of division
+
+F strings
+    share = "{:.2f}".format((bill/n)*(1+tip/100))
+    "{:.2f}".format() can be used to convert number to 2 decimal format
