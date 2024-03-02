@@ -39,8 +39,8 @@ Starting Date : 28th Feb 2024
   <tr>
     <td>2024-03-02</td>
     <td>05</td>
-    <td></td>
-    <td></td>
+    <td>Loops and Range functions</td>
+    <td>Password Generator</td>
   </tr>
   <tr>
     <td>2024-03-03</td>
