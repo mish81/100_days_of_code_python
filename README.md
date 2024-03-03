@@ -45,6 +45,30 @@ Starting Date : 28th Feb 2024
   <tr>
     <td>2024-03-03</td>
     <td>06</td>
+    <td>While Loops and Functions</td>
+    <td>Escaping the Maze</td>
+  </tr>
+  <tr>
+    <td>2024-03-04</td>
+    <td>07</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2024-03-05</td>
+    <td>08</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2024-03-06</td>
+    <td>09</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2024-03-07</td>
+    <td>10</td>
     <td></td>
     <td></td>
   </tr>
