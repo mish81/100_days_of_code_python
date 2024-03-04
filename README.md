@@ -51,8 +51,8 @@ Starting Date : 28th Feb 2024
   <tr>
     <td>2024-03-04</td>
     <td>07</td>
-    <td></td>
-    <td></td>
+    <td>-</td>
+    <td>Hangman game</td>
   </tr>
   <tr>
     <td>2024-03-05</td>
