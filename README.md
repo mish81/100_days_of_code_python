@@ -57,8 +57,8 @@ Starting Date : 28th Feb 2024
   <tr>
     <td>2024-03-05</td>
     <td>08</td>
-    <td></td>
-    <td></td>
+    <td>Functions with inputs, Positional vs Keyword Arguments</td>
+    <td>Ceaser's Cipher</td>
   </tr>
   <tr>
     <td>2024-03-06</td>
