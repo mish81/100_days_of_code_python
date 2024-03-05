@@ -63,8 +63,8 @@ Starting Date : 28th Feb 2024
   <tr>
     <td>2024-03-06</td>
     <td>09</td>
-    <td></td>
-    <td></td>
+    <td>Dictionaries and Nesting</td>
+    <td>Silent Bidding</td>
   </tr>
   <tr>
     <td>2024-03-07</td>
