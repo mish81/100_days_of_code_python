@@ -61,14 +61,38 @@ Starting Date : 28th Feb 2024
     <td>Ceaser's Cipher</td>
   </tr>
   <tr>
-    <td>2024-03-06</td>
+    <td>2024-03-05</td>
     <td>09</td>
     <td>Dictionaries and Nesting</td>
     <td>Silent Bidding</td>
   </tr>
   <tr>
-    <td>2024-03-07</td>
+    <td>2024-03-06</td>
     <td>10</td>
+    <td>Functions with outputs</td>
+    <td>Calculator</td>
+  </tr>
+  <tr>
+    <td>2024-03-07</td>
+    <td>11</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2024-03-08</td>
+    <td>12</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2024-03-09</td>
+    <td>13</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2024-03-10</td>
+    <td>14</td>
     <td></td>
     <td></td>
   </tr>
