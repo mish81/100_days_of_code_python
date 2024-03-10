@@ -75,8 +75,8 @@ Starting Date : 28th Feb 2024
   <tr>
     <td>2024-03-07</td>
     <td>11</td>
-    <td></td>
-    <td></td>
+    <td>Capstone Project</td>
+    <td>BlackJack</td>
   </tr>
   <tr>
     <td>2024-03-08</td>
