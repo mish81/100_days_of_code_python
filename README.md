@@ -79,10 +79,10 @@ Starting Date : 28th Feb 2024
     <td>BlackJack Game</td>
   </tr>
   <tr>
-    <td>2024-03-10</td>
+    <td>2024-03-19</td>
     <td>12</td>
-    <td></td>
-    <td></td>
+    <td>Namespace, Local and Global Scope</td>
+    <td>Number Guessing Game</td>
   </tr>
   <tr>
     <td>2024-03-09</td>
